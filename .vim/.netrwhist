@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/rgoddumarri'
+let g:netrw_dirhist_2='/Users/rgoddumarri/development/git/voucher-inventory-service'
+let g:netrw_dirhist_3='/Users/rgoddumarri/development/python/samples'
+let g:netrw_dirhist_4='/Users/rgoddumarri/.vim'
+let g:netrw_dirhist_5='/Users/rgoddumarri'
